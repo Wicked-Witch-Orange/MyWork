@@ -3,7 +3,7 @@ library(survival)
 library(ggplot2)
 library(dplyr)
 
-mgus_data <- read.csv("C:/Users/sowon/Desktop/thesis/mgus2.csv")
+mgus_data <- read.csv(...)
 
 # Select relevant columns
 mgus_data_clean <- mgus_data[, c("sex", "hgb", "creat", "ptime", "age", "futime", "death")]
