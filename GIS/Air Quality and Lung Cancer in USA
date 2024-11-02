@@ -1,0 +1,17 @@
+# Air Quality and Lung Cancer in USA
+
+## Project Overview
+This project explores the relationship between air quality and lung cancer incidence across the USA using interactive maps and statistical analysis.
+
+## ArcGIS Hub Project
+You can access the full interactive project on ArcGIS Hub [here](https://air-quality-and-lung-cancer-in-usa-sj2024.hub.arcgis.com/).
+
+## Data Sources
+- Air Quality Data: [Link to source, e.g., EPA database]
+- Lung Cancer Incidence Data: [Link to data source, e.g., CDC]
+
+## Key Features
+- **Interactive Maps**: Explore how air pollution correlates with lung cancer rates across the USA.
+- **Data Visualizations**: Charts and graphs showing pollutant levels and cancer incidence.
+
+
